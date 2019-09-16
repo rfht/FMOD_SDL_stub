@@ -1,3 +1,9 @@
+This is FMOD_SDL_stub, a stub for the FMOD_SDL SDL Audio Output Plugin for FMOD Studio.
+All functions have been stubbed. This is derivative work of FMOD_SDL
+under the zlib license (see LICENSE).
+
+Original README below:
+
 This is FMOD_SDL, an SDL Audio Output Plugin for FMOD Studio.
 
 Project Website: https://github.com/flibitijibibo/FMOD_SDL/
